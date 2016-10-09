@@ -7,6 +7,9 @@
   "scripts": {
     "test": "mocha -R spec"
   },
+  "files": [
+    "cli.js"]
+  ,
   "bin": {
     "reproject": "cli.js"
   },
